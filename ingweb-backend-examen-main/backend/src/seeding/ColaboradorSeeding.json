@@ -1,0 +1,24 @@
+[
+    {
+    "email": "ana.gomez@hotmail.com",
+    "nombre": "Ana Gómez",
+    "habilidades": ["React", "Node.js", "CSS"],
+    "createdAt": "2024-11-15T12:00:00.000Z",
+    "updatedAt": "2024-11-15T12:00:00.000Z"
+    }, 
+    {
+    "email": "EsperanzaFer@gmail.com",
+    "nombre": "Esperanza Fernandez",
+    "habilidades": ["Python", "Node.js"],
+    "createdAt": "2024-11-15T12:00:00.000Z",
+    "updatedAt": "2024-11-15T12:00:00.000Z"
+    },
+    {
+    "email": "MiguelZapata@gmail.com",
+    "nombre": "Miguel Zapata",
+    "habilidades": ["JavaScript", "Node.js", "MongoDB"],
+    "createdAt": "2024-11-15T12:00:00.000Z",
+    "updatedAt": "2024-11-15T12:00:00.000Z"
+    
+    }
+]

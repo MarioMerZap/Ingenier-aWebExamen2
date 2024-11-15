@@ -1,0 +1,18 @@
+[
+    {
+    "responsable": "EsperanzaFer@gmail.com",
+    "descripcion": "Desarrollar módulo de autenticación",
+    "habilidades": ["JavaScript", "Node.js", "MongoDB"],
+    "segmentos": 1,
+    "createdAt": "2024-11-15T10:00:00.000Z",
+    "updatedAt": "2024-11-15T10:00:00.000Z"
+    },
+    {
+    "responsable": "MiguelZapata@gmail.com",
+    "descripcion": "Desarrollar estadística con Python",
+    "habilidades": ["Python", "Node.js"],
+    "segmentos": 2,
+    "createdAt": "2024-11-15T10:00:00.000Z",
+    "updatedAt": "2024-11-15T10:00:00.000Z"
+    }
+]
